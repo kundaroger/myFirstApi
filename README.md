@@ -1,3 +1,3 @@
 # myFirstApi
 introduction to first API
-THANK YOU FOR VISITING THIS REPO
+Thank You for Visiting T REPO
